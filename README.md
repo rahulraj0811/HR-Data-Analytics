@@ -5,4 +5,4 @@ Preview:
 
 ![Image Alt](https://github.com/rahulraj0811/HR-Data-Analytics/blob/bd6ddcb665426122e138be04effc07f349a397bf/HR%20Dashboard-1.jpg)
 
-![Image Alt](https://github.com/rahulraj0811/HR-Data-Analytics/blob/0362eaac34327dc38c0273abafe57d771a57e33d/HR%20Dashboard-2.jpg)
+
