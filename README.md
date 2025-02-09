@@ -1,5 +1,5 @@
 # HR-Data-Analytics
-Human Resource Data Analysis for the year 2000 - 2020 using Microsoft SQL Server Database and visualized the trends and insights using Microsoft Power BI.
+Human Resource Data Analysis project using Sample HR Dataset from year 2000 - 2020. Analyzed the dataset using Microsoft SQL Server Database and visualized the trends and insights using Microsoft Power BI.
 
 Preview:
 
