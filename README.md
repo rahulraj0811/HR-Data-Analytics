@@ -13,6 +13,6 @@ Findings:
 * There are more men than women in the workforce. 
 * Most employees fall within the age range of 30-40, followed by those aged 40-50, with the smallest group being those aged 20-30.
 * The Engineering Department has the highest number of employees, while the Auditing Department has the smallest headcount.
-* Over the years, there has been a net increase in the number of employees. 
+* Over the years, there has been a net increase in the number of employees hired. 
 * A large number of employees are working from the state of Ohio.
 
